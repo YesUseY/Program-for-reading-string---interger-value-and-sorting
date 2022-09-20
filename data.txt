@@ -1,0 +1,6 @@
+5
+Petras 25
+Jonas 25
+Tomas 40
+Vytas 25
+Sigitas 40
